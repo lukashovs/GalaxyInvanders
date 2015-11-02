@@ -1,0 +1,1 @@
+c:\users\slukashov\documents\visual studio 2010\Projects\GalaxyInvanders\GalaxyInvanders\GalaxyInvandersContent\obj\x86\Debug\GalaxyInvandersContent.contentprojResolveAssemblyReference.cache
